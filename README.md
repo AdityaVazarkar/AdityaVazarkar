@@ -1,10 +1,6 @@
 <h1 align="center"><b>Hi , I'm Aditya Vazarkar</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://raw.githubusercontent.com/b1ink0/b1ink0/main/assets/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 ## <picture><img src = "https://raw.githubusercontent.com/b1ink0/b1ink0/main/assets/about_me.gif" width = 50px></picture> **About me**
 
