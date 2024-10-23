@@ -27,6 +27,7 @@
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React%20-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![Angular](https://img.shields.io/badge/React%20-%231572B6.svg?style=for-the-badge&logo=react&logoColor=red)
   ![Tailwind](https://img.shields.io/badge/Tailwind%20-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white&color=blue)
 - **Back-End Development**:
 
@@ -35,6 +36,7 @@
   ![Node](https://img.shields.io/badge/Node%20-%231572B6.svg?style=for-the-badge&logo=nodedotjs&logoColor=white&color=71b350)
   ![MongoDB](https://img.shields.io/badge/MongoDB%20-%231572B6.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=51a845)
   ![MySQL](https://img.shields.io/badge/MySQL%20-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white&color=51a845)
+  ![Spring Boot](https://img.shields.io/badge/MySQL%20-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white&color=51a845)
 
 - **Languages**:
 
