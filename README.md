@@ -69,11 +69,6 @@
 
 
 
-
-## <b> Let's Connect..!</b><img src="https://raw.githubusercontent.com/b1ink0/b1ink0/main/assets/handshake.gif" width ="80">
-
-<br>
-
 ## 💬 Connect With Me
 
 - 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aditya-vazarkar-9a7a271b0/))
