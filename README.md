@@ -9,7 +9,7 @@
 <br>
 
 - 🔭 A passionate Self-taught Full Stack java Developer
-- 💬 Ask me about reactjs, nextjs, nodejs, mongoDB, firebase
+- 💬 Ask me about reactjs, java, nextjs, nodejs, mongoDB, firebase
 - 🌱 Wright now I am dowing intenship as web Developer in EncryptedCyberTech
 <br>
 
@@ -73,6 +73,14 @@
 ## <b> Let's Connect..!</b><img src="https://raw.githubusercontent.com/b1ink0/b1ink0/main/assets/handshake.gif" width ="80">
 
 <br>
+
+## 💬 Connect With Me
+
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aditya-vazarkar-9a7a271b0/))
+- 🌐 [Portfolio](https://your-website.com)
+- ![Email](https://img.icons8.com/ios-filled/50/000000/email.png)
+
+
 <div align='left'>
 
 <a href="https://www.linkedin.com/in/aditya-vazarkar-9a7a271b0/" target="_blank">
