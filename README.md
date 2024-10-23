@@ -67,7 +67,7 @@
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Projects
 Here are some highlights from my repositories:
@@ -79,7 +79,7 @@ Here are some highlights from my repositories:
   An React Js , Node js  Project for Biryani shope for order the Biryani.
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
