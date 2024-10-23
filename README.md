@@ -78,4 +78,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
+
+# 📊 Weekly Coding Stats
+<!--START_SECTION:waka-->
+```text
+Java        10 hrs  ░░░░░░░░░░░░░░░░░░░ 40.0%
+React Js    8 hrs   ░░░░░░░░░░░░░░░░░░░ 30.0%
+Node Js     2 hrs   ░░░░░░░░░░░░░░░░░░░ 30.0%
 																													Hi I am Aditya Vazarkar 
