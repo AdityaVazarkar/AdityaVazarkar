@@ -67,6 +67,20 @@
 
 <br>
 
+---
+
+## 🚀 Projects
+Here are some highlights from my repositories:
+
+- [🔗 **Ice Cream shop clone**](https://ice-cream-shop-clone.netlify.app/)  
+  An Angular project that validates loan application forms using Angular Material, with real-time error messages for missing or invalid fields.
+
+- [🔗 **Biryani Shope**]([https://github.com/your-repo-link](https://jayhomecookedbiryani.netlify.app/))  
+  A complete system for user registration, login, and OTP verification built with Spring Boot and Angular.
+
+
+---
+
 
 
 ## 💬 Connect With Me
