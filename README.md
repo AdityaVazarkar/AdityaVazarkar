@@ -29,6 +29,7 @@
   ![React](https://img.shields.io/badge/React%20-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
   ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind%20-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white&color=blue)
+  
 - **Back-End Development**:
 
   ![Express](https://img.shields.io/badge/Express%20-%231572B6.svg?style=for-the-badge&logo=express&logoColor=white&color=black)
