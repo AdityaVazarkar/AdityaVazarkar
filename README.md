@@ -68,14 +68,14 @@
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white&color=black)
   ![Netlify](https://img.shields.io/badge/netlify%20-%231572B6.svg?style=for-the-badge&logo=vercel&logoColor=white&color=black)
 
-- **Softwares and Tools**:
+- **Development Tools**:
 
   ![Wordpress](https://img.shields.io/badge/Wordpress-0078d7.svg?style=for-the-badge&logo=wordpress&logoColor=white&color=31363b)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![IntelliJ](https://img.shields.io/badge/Intellij-FCC624?style=for-the-badge&logo=linux&logoColor=black)	
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Intellij](https://img.shields.io/badge/Intellij-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
