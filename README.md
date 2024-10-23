@@ -39,21 +39,16 @@
 
 - **Data Analysis**:
   
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%231DAA00.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C4C1A.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%230E4F73.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-%231DAA00.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C4C1A.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-%230E4F73.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 
-- **Machine Learning**:
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F20.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 
 - **Data Visualization**:
 
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C94C.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C94C.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 
  
 - **Languages**:
