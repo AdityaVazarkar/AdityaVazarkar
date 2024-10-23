@@ -36,8 +36,7 @@
   ![Node](https://img.shields.io/badge/Node%20-%231572B6.svg?style=for-the-badge&logo=nodedotjs&logoColor=white&color=71b350)
   ![MongoDB](https://img.shields.io/badge/MongoDB%20-%231572B6.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=51a845)
   ![MySQL](https://img.shields.io/badge/MySQL%20-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white&color=51a845)
-  ![Spring Boot](https://img.shields.io/badge/MySQL%20-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white&color=51a845)
-
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 - **Languages**:
 
   ![Java](https://img.shields.io/badge/JAVA%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
