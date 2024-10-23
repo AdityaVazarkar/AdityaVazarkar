@@ -77,26 +77,9 @@
 ## 💬 Connect With Me
 
 - 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aditya-vazarkar-9a7a271b0/))
-- 🌐 [Portfolio](https://your-website.com)
-- ![Email](https://img.icons8.com/ios-filled/50/000000/email.png)
+- 🌐 [Portfolio]([https://your-website.com](https://adityavazarkar.github.io/port-folio/#services0))
 
 
-<div align='left'>
-
-<a href="https://www.linkedin.com/in/aditya-vazarkar-9a7a271b0/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-
-
-<a href="https://www.instagram.com/aditya.vazarkar/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%2300acee.svg?style=for-the-badge&logo=instagram&logoColor=white&color=ea03d5" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-
-<a href="mailto:adityavazarkar34@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-
-</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
