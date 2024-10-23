@@ -85,8 +85,8 @@ Here are some highlights from my repositories:
 
 ## 💬 Connect With Me
 
-- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aditya-vazarkar-9a7a271b0/))
-- 🌐 [Portfolio]([https://your-website.com](https://adityavazarkar.github.io/port-folio/#services0))
+- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-vazarkar-9a7a271b0)
+- 🌐 [Portfolio](https://adityavazarkar.github.io/port-folio/#services0)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
