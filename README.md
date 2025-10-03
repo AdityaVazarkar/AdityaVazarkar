@@ -8,8 +8,8 @@
 
 <br>
 
-- 🔭 A passionate Self-taught Full Stack java Developer
-- 💬 Ask me about reactjs, java, nextjs, nodejs, mongoDB, firebase
+- 🔭 A passionate Self-taught Full Stack java Developer / Data Science
+- 💬 Ask me about reactjs, java, , python, nodejs,Machine Learning , SQL ,  mongoDB, firebase
 - 🌱  Curriently I am working as Software Engineer in BitString It Services
 <br>
 
@@ -37,9 +37,10 @@
   ![PHP](https://img.shields.io/badge/PHP%20-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white&color=697ab1)
   ![Node](https://img.shields.io/badge/Node%20-%231572B6.svg?style=for-the-badge&logo=nodedotjs&logoColor=white&color=71b350)
 
-- **Data Analysis**:
+- **Data Science**:
   
   ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
   ![Pandas](https://img.shields.io/badge/Pandas-%231DAA00.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C4C1A.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -87,12 +88,15 @@
 
 ## 🚀 Projects
 Here are some highlights from my repositories:
+- [🔗 **Loan Approval Prediction**]
+  Built ML models (Random Forest, Decision Tree, Logistic Regression, KNN, Naïve Bayes) for loan approval. Random Forest achieved the best accuracy (91%).
 
-- [🔗 **Ice Cream shop clone**](https://ice-cream-shop-clone.netlify.app/)  
+- [🔗 **Greater Nevada Hindu Temple Website**](https://gnht.org)  
   An HTML CSS JavaScript Project for Ice Cream shope for order the Ice-Cream.
 
-- [🔗 **Biryani Shope**](https://jayhomecookedbiryani.netlify.app/)  
-  An React Js , Node js  Project for Biryani shope for order the Biryani.
+- [🔗 **Ice Cream shop clone**](https://ice-cream-shop-clone.netlify.app/)  
+  Built a MERN application with an event management feature enabling admins to manage events independently
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
